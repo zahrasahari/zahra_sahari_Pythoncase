@@ -1,7 +1,7 @@
 #HW_1
-answer:Yes
+Yes
 #HW_2
-answer:by the negative index ,we can fix the elements of the list from the bottom.
+by the negative index ,we can fix the elements of the list from the bottom.
 #HW_3
 list=[45,-3,16,8]
 #HW_4
